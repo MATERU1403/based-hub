@@ -1,9 +1,9 @@
 {
  "format": 1,
- "build": "20261012.1557",
- "commit": "03411963ba5046c8d6e74f97bf8aa34b896be27b",
+ "build": "20261014.1438",
+ "commit": "f011c86109b26b4746696e6eb9e3ffe70d265aa8",
  "hub": {
-  "size": 729114
+  "size": 891083
  },
  "files": {
   "fonts/Archivo-ExpandedBlack.ttf": {
@@ -149,6 +149,78 @@
   "sfx/bh_fly_wind.ogg": {
    "size": 108465,
    "stamp": "fe17eb5d"
+  },
+  "sfx/bh_hit_bell.ogg": {
+   "size": 6576,
+   "stamp": "589e0d98"
+  },
+  "sfx/bh_hit_blip.ogg": {
+   "size": 5293,
+   "stamp": "a200d2ba"
+  },
+  "sfx/bh_hit_chirp.ogg": {
+   "size": 4591,
+   "stamp": "16667041"
+  },
+  "sfx/bh_hit_clack.ogg": {
+   "size": 4804,
+   "stamp": "8a9ffa7e"
+  },
+  "sfx/bh_hit_coin.ogg": {
+   "size": 8980,
+   "stamp": "3d458f74"
+  },
+  "sfx/bh_hit_ding.ogg": {
+   "size": 5681,
+   "stamp": "4413c30a"
+  },
+  "sfx/bh_hit_glass.ogg": {
+   "size": 6759,
+   "stamp": "71701f8e"
+  },
+  "sfx/bh_hit_kill_bass.ogg": {
+   "size": 5838,
+   "stamp": "fdaf9a05"
+  },
+  "sfx/bh_hit_kill_chime.ogg": {
+   "size": 8970,
+   "stamp": "f5fc778e"
+  },
+  "sfx/bh_hit_kill_coins.ogg": {
+   "size": 9959,
+   "stamp": "003c96e4"
+  },
+  "sfx/bh_hit_kill_gong.ogg": {
+   "size": 8377,
+   "stamp": "b5a250bf"
+  },
+  "sfx/bh_hit_kill_sweep.ogg": {
+   "size": 7485,
+   "stamp": "814df70a"
+  },
+  "sfx/bh_hit_pop.ogg": {
+   "size": 4535,
+   "stamp": "35af5b1d"
+  },
+  "sfx/bh_hit_punch.ogg": {
+   "size": 5942,
+   "stamp": "62c63220"
+  },
+  "sfx/bh_hit_snap.ogg": {
+   "size": 5262,
+   "stamp": "9d0f6f51"
+  },
+  "sfx/bh_hit_thud.ogg": {
+   "size": 5247,
+   "stamp": "82420e99"
+  },
+  "sfx/bh_hit_tick.ogg": {
+   "size": 4574,
+   "stamp": "bff8fe87"
+  },
+  "sfx/bh_hit_zap.ogg": {
+   "size": 5754,
+   "stamp": "fd9f125d"
   },
   "sfx/bh_hover.ogg": {
    "size": 5468,
