@@ -6,7 +6,7 @@ per-game modules.
 ## Run it
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Mrzaytoon/based-hub/main/loader.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MATERU1403/based-hub/main/loader.lua"))()
 ```
 
 The first run downloads the hub, the fonts, icons and sounds it uses, and its two films (the

@@ -1,6 +1,6 @@
 -- BASED Hub: the installer.
 --
---   loadstring(game:HttpGet("https://raw.githubusercontent.com/Mrzaytoon/based-hub/main/loader.lua"))()
+--   loadstring(game:HttpGet("https://raw.githubusercontent.com/MATERU1403/based-hub/main/loader.lua"))()
 --
 -- The first time, it fetches the hub, the files the hub draws with (fonts, icons, textures,
 -- sounds) and its films (the two intros, and the one on the Home tab), shows how far along it
@@ -17,7 +17,7 @@
 -- comes as packs of frames (packs/*.pack) that are taken apart here, in the picture sizes that
 -- suit the screen; the hub runs without its films, so one that does not arrive never stops a
 -- start.
-local RAW = "https://raw.githubusercontent.com/Mrzaytoon/based-hub/"
+local RAW = "https://raw.githubusercontent.com/MATERU1403/based-hub/"
 local ROOT, SCRIPT, LIST = "BasedHub", "BasedHub.lua", "install.json"
 local RECORD = ROOT .. "/cache/installed.json"
 local FORMAT = 1          -- the newest install.json this file understands
@@ -140,7 +140,7 @@ end
 -- they are only ever written inside the hub's two film folders.
 local function filmFolder(prefix)
   -- (one folder per film: a pack is only ever unpacked into one of them)
-  for _, folder in ipairs({ "film", "board", "reel" }) do
+  for _, folder in ipairs({ "film", "board", "reel", "remaster" }) do
     if string.match(prefix, "^" .. folder .. "/[%w_%-/]+$") ~= nil then return true end
   end
   return false
@@ -511,7 +511,7 @@ local function install()
     -- already downloaded: nothing to fetch, nothing to show, the hub starts
     local films = {}
     if list then
-      for _, film in ipairs({ { key = "film", name = "the intro film" }, { key = "board", name = "the Home film" }, { key = "reel", name = "the Invincible intro" } }) do
+      for _, film in ipairs({ { key = "film", name = "the intro film" }, { key = "board", name = "the Home film" }, { key = "reel", name = "the Invincible intro" }, { key = "remaster", name = "the Remastered intro" } }) do
         film.plan = filmPlan(list[film.key], record, film.name)
         if film.plan then films[#films + 1] = film end
       end
