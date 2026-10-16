@@ -3,7 +3,7 @@
 --   loadstring(game:HttpGet("https://raw.githubusercontent.com/Mrzaytoon/based-hub/main/loader.lua"))()
 --
 -- The first time, it fetches the hub, the files the hub draws with (fonts, icons, textures,
--- sounds) and its two films (the intro, and the one on the Home tab), shows how far along it
+-- sounds) and its films (the two intros, and the one on the Home tab), shows how far along it
 -- is, and starts the hub. After that there is
 -- no download and no download screen: it looks at what is already here, asks whether a newer
 -- build is out, fetches only what changed if one is, and starts the hub. With no network it
@@ -507,7 +507,7 @@ local function install()
     -- already downloaded: nothing to fetch, nothing to show, the hub starts
     local films = {}
     if list then
-      for _, film in ipairs({ { key = "film", name = "the intro film" }, { key = "board", name = "the Home film" } }) do
+      for _, film in ipairs({ { key = "film", name = "the intro film" }, { key = "board", name = "the Home film" }, { key = "reel", name = "the Invincible intro" } }) do
         film.plan = filmPlan(list[film.key], record, film.name)
         if film.plan then films[#films + 1] = film end
       end
