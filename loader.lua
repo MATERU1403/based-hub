@@ -139,7 +139,11 @@ end
 -- the frames one after another. The list says which frames a pack holds (prefix, from, to) and
 -- they are only ever written inside the hub's two film folders.
 local function filmFolder(prefix)
-  return string.match(prefix, "^film/[%w_%-/]+$") ~= nil or string.match(prefix, "^board/[%w_%-/]+$") ~= nil
+  -- (one folder per film: a pack is only ever unpacked into one of them)
+  for _, folder in ipairs({ "film", "board", "reel" }) do
+    if string.match(prefix, "^" .. folder .. "/[%w_%-/]+$") ~= nil then return true end
+  end
+  return false
 end
 local function soundPack(pack)
   return type(pack) == "table" and type(pack.at) == "string" and string.match(pack.at, "^packs/[%w_%-]+%.pack$") ~= nil
