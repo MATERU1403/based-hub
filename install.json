@@ -1,9 +1,9 @@
 {
  "format": 1,
- "build": "20261016.2024",
- "commit": "f8e5736669cdc57dba4195c338dfa5809f719c99",
+ "build": "20261016.2335",
+ "commit": "39740dfa4e50c2d770ab35d97ac1e992a4914f87",
  "hub": {
-  "size": 1089033
+  "size": 1092399
  },
  "files": {
   "fonts/Archivo-ExpandedBlack.ttf": {
@@ -1347,6 +1347,1291 @@
       "prefix": "reel/hd/bhr2_h_",
       "from": 1000,
       "to": 1033,
+      "digits": 4,
+      "ext": ".jpg"
+     }
+    ]
+   }
+  ]
+ },
+ "remaster": {
+  "all": false,
+  "files": {
+   "remaster/bhm1_audio.ogg": {
+    "size": 1652147,
+    "stamp": "65650b7a"
+   }
+  },
+  "sets": [
+   {
+    "name": "ultra",
+    "minHeight": 800,
+    "size": 225537349,
+    "packs": [
+     {
+      "at": "packs/ultra_bhm1_l_0000.pack",
+      "size": 1107331,
+      "stamp": "e0234a63",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 0,
+      "to": 49,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_0050.pack",
+      "size": 3438584,
+      "stamp": "7550e7c7",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 50,
+      "to": 99,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_0100.pack",
+      "size": 4797419,
+      "stamp": "e504a3f5",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 100,
+      "to": 149,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_0150.pack",
+      "size": 4098057,
+      "stamp": "0c2e0c0a",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 150,
+      "to": 199,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_0200.pack",
+      "size": 3760583,
+      "stamp": "7fc9403f",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 200,
+      "to": 249,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_0250.pack",
+      "size": 2889327,
+      "stamp": "1587ea1e",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 250,
+      "to": 299,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_0300.pack",
+      "size": 2332782,
+      "stamp": "38160041",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 300,
+      "to": 349,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_0350.pack",
+      "size": 2095505,
+      "stamp": "10f0aa3c",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 350,
+      "to": 399,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_0400.pack",
+      "size": 2180878,
+      "stamp": "534ae283",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 400,
+      "to": 449,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_0450.pack",
+      "size": 2885966,
+      "stamp": "db3f0eb9",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 450,
+      "to": 499,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_0500.pack",
+      "size": 2132938,
+      "stamp": "b4e2c9b2",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 500,
+      "to": 549,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_0550.pack",
+      "size": 3214274,
+      "stamp": "d58293ad",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 550,
+      "to": 599,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_0600.pack",
+      "size": 3669678,
+      "stamp": "326b15d6",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 600,
+      "to": 649,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_0650.pack",
+      "size": 3953413,
+      "stamp": "fbd691a0",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 650,
+      "to": 699,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_0700.pack",
+      "size": 3834118,
+      "stamp": "f5672afa",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 700,
+      "to": 749,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_0750.pack",
+      "size": 2215045,
+      "stamp": "1848939f",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 750,
+      "to": 799,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_0800.pack",
+      "size": 3026803,
+      "stamp": "c2ac7f4a",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 800,
+      "to": 849,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_0850.pack",
+      "size": 3687323,
+      "stamp": "b57a4268",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 850,
+      "to": 899,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_0900.pack",
+      "size": 3164623,
+      "stamp": "e94e1a43",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 900,
+      "to": 949,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_0950.pack",
+      "size": 2400419,
+      "stamp": "2ccc5bb0",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 950,
+      "to": 999,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_1000.pack",
+      "size": 2141030,
+      "stamp": "30a70304",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 1000,
+      "to": 1049,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_1050.pack",
+      "size": 2816465,
+      "stamp": "e576fc37",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 1050,
+      "to": 1099,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_1100.pack",
+      "size": 2855820,
+      "stamp": "9ebacf39",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 1100,
+      "to": 1149,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_1150.pack",
+      "size": 4117120,
+      "stamp": "7b8f0618",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 1150,
+      "to": 1199,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_1200.pack",
+      "size": 2588755,
+      "stamp": "cd9630d4",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 1200,
+      "to": 1249,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_1250.pack",
+      "size": 3480257,
+      "stamp": "ac36231f",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 1250,
+      "to": 1299,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_1300.pack",
+      "size": 2154601,
+      "stamp": "0826730f",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 1300,
+      "to": 1349,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_1350.pack",
+      "size": 1638715,
+      "stamp": "00b83068",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 1350,
+      "to": 1399,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_1400.pack",
+      "size": 3024792,
+      "stamp": "fab1201c",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 1400,
+      "to": 1449,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_1450.pack",
+      "size": 1761333,
+      "stamp": "d518c1dc",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 1450,
+      "to": 1499,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_1500.pack",
+      "size": 2712373,
+      "stamp": "8bcc10e9",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 1500,
+      "to": 1549,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_1550.pack",
+      "size": 4099839,
+      "stamp": "30ea510a",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 1550,
+      "to": 1599,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_1600.pack",
+      "size": 3138602,
+      "stamp": "88f40d2e",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 1600,
+      "to": 1649,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_1650.pack",
+      "size": 3059874,
+      "stamp": "24585f23",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 1650,
+      "to": 1699,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_1700.pack",
+      "size": 2164218,
+      "stamp": "9231fd3a",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 1700,
+      "to": 1749,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_1750.pack",
+      "size": 2863283,
+      "stamp": "6e377f44",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 1750,
+      "to": 1799,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_1800.pack",
+      "size": 2675454,
+      "stamp": "94f6be99",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 1800,
+      "to": 1849,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_1850.pack",
+      "size": 1740788,
+      "stamp": "fae4258c",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 1850,
+      "to": 1899,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_1900.pack",
+      "size": 1494208,
+      "stamp": "7494ed36",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 1900,
+      "to": 1949,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_1950.pack",
+      "size": 1105392,
+      "stamp": "a6dd97cd",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 1950,
+      "to": 1999,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_2000.pack",
+      "size": 67810,
+      "stamp": "c5eeb256",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 2000,
+      "to": 2004,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_l_2125.pack",
+      "size": 11160,
+      "stamp": "aa3eda9a",
+      "prefix": "remaster/ultra/bhm1_l_",
+      "from": 2125,
+      "to": 2125,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_0000.pack",
+      "size": 977902,
+      "stamp": "b65bf7af",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 0,
+      "to": 49,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_0050.pack",
+      "size": 2414804,
+      "stamp": "bd5b48c1",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 50,
+      "to": 99,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_0100.pack",
+      "size": 3248803,
+      "stamp": "2b34881d",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 100,
+      "to": 149,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_0150.pack",
+      "size": 2865843,
+      "stamp": "ec3c7237",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 150,
+      "to": 199,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_0200.pack",
+      "size": 4376678,
+      "stamp": "7674900e",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 200,
+      "to": 249,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_0250.pack",
+      "size": 2991332,
+      "stamp": "922d60ef",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 250,
+      "to": 299,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_0300.pack",
+      "size": 2412868,
+      "stamp": "1307af7c",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 300,
+      "to": 349,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_0350.pack",
+      "size": 2353331,
+      "stamp": "41b1fb31",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 350,
+      "to": 399,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_0400.pack",
+      "size": 2693185,
+      "stamp": "d322bdcf",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 400,
+      "to": 449,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_0450.pack",
+      "size": 3873576,
+      "stamp": "1081f964",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 450,
+      "to": 499,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_0500.pack",
+      "size": 3356984,
+      "stamp": "809ecf61",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 500,
+      "to": 549,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_0550.pack",
+      "size": 3113181,
+      "stamp": "c0854e0c",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 550,
+      "to": 599,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_0600.pack",
+      "size": 3063074,
+      "stamp": "774afdf4",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 600,
+      "to": 649,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_0650.pack",
+      "size": 3778298,
+      "stamp": "b3146349",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 650,
+      "to": 699,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_0700.pack",
+      "size": 3878908,
+      "stamp": "72086d4c",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 700,
+      "to": 749,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_0750.pack",
+      "size": 4774601,
+      "stamp": "c94a4c7c",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 750,
+      "to": 799,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_0800.pack",
+      "size": 3730530,
+      "stamp": "66fa8bdb",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 800,
+      "to": 849,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_0850.pack",
+      "size": 3568376,
+      "stamp": "d92f9c1b",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 850,
+      "to": 899,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_0900.pack",
+      "size": 2875736,
+      "stamp": "e7d9083d",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 900,
+      "to": 949,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_0950.pack",
+      "size": 2233929,
+      "stamp": "ecf3bab7",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 950,
+      "to": 999,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_1000.pack",
+      "size": 2421015,
+      "stamp": "03699abe",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 1000,
+      "to": 1049,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_1050.pack",
+      "size": 3448697,
+      "stamp": "5f28695c",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 1050,
+      "to": 1099,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_1100.pack",
+      "size": 2391358,
+      "stamp": "34139293",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 1100,
+      "to": 1149,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_1150.pack",
+      "size": 3375519,
+      "stamp": "6cf94a97",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 1150,
+      "to": 1199,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_1200.pack",
+      "size": 1798576,
+      "stamp": "0d039f0f",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 1200,
+      "to": 1249,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_1250.pack",
+      "size": 2990694,
+      "stamp": "c29afaa5",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 1250,
+      "to": 1299,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_1300.pack",
+      "size": 2164330,
+      "stamp": "68e78e80",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 1300,
+      "to": 1349,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_1350.pack",
+      "size": 2078814,
+      "stamp": "34e3d891",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 1350,
+      "to": 1399,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_1400.pack",
+      "size": 2668270,
+      "stamp": "4297a457",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 1400,
+      "to": 1449,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_1450.pack",
+      "size": 2173137,
+      "stamp": "1c0da745",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 1450,
+      "to": 1499,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_1500.pack",
+      "size": 2690355,
+      "stamp": "f9992592",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 1500,
+      "to": 1549,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_1550.pack",
+      "size": 4443959,
+      "stamp": "866ab077",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 1550,
+      "to": 1599,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_1600.pack",
+      "size": 2310435,
+      "stamp": "a45bd322",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 1600,
+      "to": 1649,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_1650.pack",
+      "size": 3039718,
+      "stamp": "68ff30a3",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 1650,
+      "to": 1699,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_1700.pack",
+      "size": 2625445,
+      "stamp": "aafdc7a3",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 1700,
+      "to": 1749,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_1750.pack",
+      "size": 3020879,
+      "stamp": "21924e20",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 1750,
+      "to": 1799,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_1800.pack",
+      "size": 2684046,
+      "stamp": "a0072692",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 1800,
+      "to": 1849,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_1850.pack",
+      "size": 1646100,
+      "stamp": "6a0782a7",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 1850,
+      "to": 1899,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_1900.pack",
+      "size": 1338945,
+      "stamp": "6c3d61aa",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 1900,
+      "to": 1949,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_1950.pack",
+      "size": 968210,
+      "stamp": "67317a4b",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 1950,
+      "to": 1999,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_2000.pack",
+      "size": 68793,
+      "stamp": "5591433c",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 2000,
+      "to": 2004,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhm1_r_2125.pack",
+      "size": 11160,
+      "stamp": "aa3eda9a",
+      "prefix": "remaster/ultra/bhm1_r_",
+      "from": 2125,
+      "to": 2125,
+      "digits": 4,
+      "ext": ".jpg"
+     }
+    ]
+   },
+   {
+    "name": "hd",
+    "minHeight": 0,
+    "size": 103843641,
+    "packs": [
+     {
+      "at": "packs/hd_bhm1_h_0000.pack",
+      "size": 993668,
+      "stamp": "674e3370",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 0,
+      "to": 49,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_0050.pack",
+      "size": 2734856,
+      "stamp": "55fa36ee",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 50,
+      "to": 99,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_0100.pack",
+      "size": 3812655,
+      "stamp": "b2de020e",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 100,
+      "to": 149,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_0150.pack",
+      "size": 3268763,
+      "stamp": "d58628a1",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 150,
+      "to": 199,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_0200.pack",
+      "size": 3857706,
+      "stamp": "7c695ab0",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 200,
+      "to": 249,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_0250.pack",
+      "size": 2736788,
+      "stamp": "4905b697",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 250,
+      "to": 299,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_0300.pack",
+      "size": 2138991,
+      "stamp": "7b15e1ce",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 300,
+      "to": 349,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_0350.pack",
+      "size": 1978778,
+      "stamp": "16149f22",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 350,
+      "to": 399,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_0400.pack",
+      "size": 2194980,
+      "stamp": "a17d34e0",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 400,
+      "to": 449,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_0450.pack",
+      "size": 3192954,
+      "stamp": "54caa9cd",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 450,
+      "to": 499,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_0500.pack",
+      "size": 2562250,
+      "stamp": "eb4802a0",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 500,
+      "to": 549,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_0550.pack",
+      "size": 2895582,
+      "stamp": "e2b6a260",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 550,
+      "to": 599,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_0600.pack",
+      "size": 3069195,
+      "stamp": "97250bc9",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 600,
+      "to": 649,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_0650.pack",
+      "size": 3628834,
+      "stamp": "f3a4022b",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 650,
+      "to": 699,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_0700.pack",
+      "size": 3586335,
+      "stamp": "87bfe9dd",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 700,
+      "to": 749,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_0750.pack",
+      "size": 3273033,
+      "stamp": "8569717d",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 750,
+      "to": 799,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_0800.pack",
+      "size": 3144324,
+      "stamp": "f1a3ef45",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 800,
+      "to": 849,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_0850.pack",
+      "size": 3340939,
+      "stamp": "54e87d68",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 850,
+      "to": 899,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_0900.pack",
+      "size": 2811043,
+      "stamp": "81ebff9e",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 900,
+      "to": 949,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_0950.pack",
+      "size": 2049217,
+      "stamp": "5cbb3136",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 950,
+      "to": 999,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_1000.pack",
+      "size": 2071360,
+      "stamp": "a1e5deed",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 1000,
+      "to": 1049,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_1050.pack",
+      "size": 2894103,
+      "stamp": "d4431b96",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 1050,
+      "to": 1099,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_1100.pack",
+      "size": 2407668,
+      "stamp": "7b79028d",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 1100,
+      "to": 1149,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_1150.pack",
+      "size": 3435592,
+      "stamp": "77947785",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 1150,
+      "to": 1199,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_1200.pack",
+      "size": 1975140,
+      "stamp": "1fa390f8",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 1200,
+      "to": 1249,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_1250.pack",
+      "size": 2996814,
+      "stamp": "3ffb723d",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 1250,
+      "to": 1299,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_1300.pack",
+      "size": 1914654,
+      "stamp": "3e323286",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 1300,
+      "to": 1349,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_1350.pack",
+      "size": 1632278,
+      "stamp": "7125ce94",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 1350,
+      "to": 1399,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_1400.pack",
+      "size": 2594117,
+      "stamp": "7d11f48d",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 1400,
+      "to": 1449,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_1450.pack",
+      "size": 1744599,
+      "stamp": "d9e60413",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 1450,
+      "to": 1499,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_1500.pack",
+      "size": 2471117,
+      "stamp": "bd1ccb7a",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 1500,
+      "to": 1549,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_1550.pack",
+      "size": 3963205,
+      "stamp": "52b8791d",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 1550,
+      "to": 1599,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_1600.pack",
+      "size": 2509821,
+      "stamp": "f26c1c37",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 1600,
+      "to": 1649,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_1650.pack",
+      "size": 2806774,
+      "stamp": "8befc987",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 1650,
+      "to": 1699,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_1700.pack",
+      "size": 2206691,
+      "stamp": "084b8dc6",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 1700,
+      "to": 1749,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_1750.pack",
+      "size": 2691854,
+      "stamp": "672ad0d2",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 1750,
+      "to": 1799,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_1800.pack",
+      "size": 2389907,
+      "stamp": "5e40ebe6",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 1800,
+      "to": 1849,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_1850.pack",
+      "size": 1521257,
+      "stamp": "ffb5070f",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 1850,
+      "to": 1899,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_1900.pack",
+      "size": 1326050,
+      "stamp": "9aa529a2",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 1900,
+      "to": 1949,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_1950.pack",
+      "size": 949313,
+      "stamp": "e8595d25",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 1950,
+      "to": 1999,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_2000.pack",
+      "size": 60357,
+      "stamp": "b52aa7ff",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 2000,
+      "to": 2004,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhm1_h_2125.pack",
+      "size": 10079,
+      "stamp": "c0ee7219",
+      "prefix": "remaster/hd/bhm1_h_",
+      "from": 2125,
+      "to": 2125,
       "digits": 4,
       "ext": ".jpg"
      }
