@@ -1,9 +1,9 @@
 {
  "format": 1,
- "build": "20261017.1115",
- "commit": "e9c37b63daf94d690b08e2e5edbcdbc51dd6adb0",
+ "build": "20261017.1843",
+ "commit": "1b52c477f1a99ee9a44c10febb0f42255ebf8fdc",
  "hub": {
-  "size": 1103222
+  "size": 1105330
  },
  "files": {
   "fonts/Archivo-ExpandedBlack.ttf": {
@@ -5852,6 +5852,871 @@
       "prefix": "blackflag/hd/bhk1_h_",
       "from": 1200,
       "to": 1225,
+      "digits": 4,
+      "ext": ".jpg"
+     }
+    ]
+   }
+  ]
+ },
+ "omniman": {
+  "all": false,
+  "files": {
+   "omniman/bho1_audio.ogg": {
+    "size": 819870,
+    "stamp": "037c2733"
+   }
+  },
+  "sets": [
+   {
+    "name": "ultra",
+    "minHeight": 800,
+    "size": 159683802,
+    "packs": [
+     {
+      "at": "packs/ultra_bho1_l_0000.pack",
+      "size": 1502801,
+      "stamp": "f1b3b16b",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 0,
+      "to": 49,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_0050.pack",
+      "size": 2194323,
+      "stamp": "06580b18",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 50,
+      "to": 99,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_0100.pack",
+      "size": 3730200,
+      "stamp": "ccbdc51f",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 100,
+      "to": 149,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_0150.pack",
+      "size": 5346201,
+      "stamp": "8e9ff820",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 150,
+      "to": 199,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_0200.pack",
+      "size": 5003055,
+      "stamp": "4b7ac53c",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 200,
+      "to": 249,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_0250.pack",
+      "size": 4832012,
+      "stamp": "6e42041e",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 250,
+      "to": 299,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_0300.pack",
+      "size": 6756320,
+      "stamp": "c759d054",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 300,
+      "to": 349,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_0350.pack",
+      "size": 5396407,
+      "stamp": "88a0e698",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 350,
+      "to": 399,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_0400.pack",
+      "size": 4167016,
+      "stamp": "3f363f19",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 400,
+      "to": 449,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_0450.pack",
+      "size": 4079066,
+      "stamp": "2f816420",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 450,
+      "to": 499,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_0500.pack",
+      "size": 3976348,
+      "stamp": "5aae0ce3",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 500,
+      "to": 549,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_0550.pack",
+      "size": 2385744,
+      "stamp": "ba96ea5b",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 550,
+      "to": 599,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_0600.pack",
+      "size": 2474751,
+      "stamp": "1e68d902",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 600,
+      "to": 649,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_0650.pack",
+      "size": 1864826,
+      "stamp": "03dcddec",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 650,
+      "to": 699,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_0700.pack",
+      "size": 2322760,
+      "stamp": "ed12500e",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 700,
+      "to": 749,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_0750.pack",
+      "size": 1836440,
+      "stamp": "c3968e2a",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 750,
+      "to": 799,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_0800.pack",
+      "size": 1280671,
+      "stamp": "9bfe87d2",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 800,
+      "to": 849,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_0850.pack",
+      "size": 1411757,
+      "stamp": "db43da9e",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 850,
+      "to": 899,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_0900.pack",
+      "size": 2039237,
+      "stamp": "61e98140",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 900,
+      "to": 949,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_0950.pack",
+      "size": 1410538,
+      "stamp": "506de2e0",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 950,
+      "to": 999,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_1000.pack",
+      "size": 2111085,
+      "stamp": "a9d9dbab",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 1000,
+      "to": 1049,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_1050.pack",
+      "size": 2139722,
+      "stamp": "610416b1",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 1050,
+      "to": 1099,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_1100.pack",
+      "size": 2184441,
+      "stamp": "7db195d4",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 1100,
+      "to": 1149,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_1150.pack",
+      "size": 3031295,
+      "stamp": "4fb2883b",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 1150,
+      "to": 1199,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_1200.pack",
+      "size": 2818492,
+      "stamp": "a01deac7",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 1200,
+      "to": 1249,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_1250.pack",
+      "size": 2961173,
+      "stamp": "41b751b4",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 1250,
+      "to": 1299,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_1300.pack",
+      "size": 1620225,
+      "stamp": "f4b97bc7",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 1300,
+      "to": 1327,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_l_1341.pack",
+      "size": 11160,
+      "stamp": "aa3eda9a",
+      "prefix": "omniman/ultra/bho1_l_",
+      "from": 1341,
+      "to": 1341,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_0000.pack",
+      "size": 1500775,
+      "stamp": "df0e2253",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 0,
+      "to": 49,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_0050.pack",
+      "size": 1728231,
+      "stamp": "fc489574",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 50,
+      "to": 99,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_0100.pack",
+      "size": 3032059,
+      "stamp": "389996cb",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 100,
+      "to": 149,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_0150.pack",
+      "size": 4846317,
+      "stamp": "38cb4af7",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 150,
+      "to": 199,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_0200.pack",
+      "size": 5884133,
+      "stamp": "a362e45e",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 200,
+      "to": 249,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_0250.pack",
+      "size": 2454448,
+      "stamp": "cac20752",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 250,
+      "to": 299,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_0300.pack",
+      "size": 5882000,
+      "stamp": "633ffd88",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 300,
+      "to": 349,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_0350.pack",
+      "size": 5113363,
+      "stamp": "65c59d74",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 350,
+      "to": 399,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_0400.pack",
+      "size": 3262252,
+      "stamp": "5d6d256f",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 400,
+      "to": 449,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_0450.pack",
+      "size": 3114221,
+      "stamp": "3e0ef433",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 450,
+      "to": 499,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_0500.pack",
+      "size": 3156136,
+      "stamp": "b1f1178e",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 500,
+      "to": 549,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_0550.pack",
+      "size": 2078529,
+      "stamp": "6639f573",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 550,
+      "to": 599,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_0600.pack",
+      "size": 2052164,
+      "stamp": "f74158b3",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 600,
+      "to": 649,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_0650.pack",
+      "size": 1774553,
+      "stamp": "8296e0eb",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 650,
+      "to": 699,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_0700.pack",
+      "size": 1761522,
+      "stamp": "b7d42dcc",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 700,
+      "to": 749,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_0750.pack",
+      "size": 1010338,
+      "stamp": "bd78d9b5",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 750,
+      "to": 799,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_0800.pack",
+      "size": 1937184,
+      "stamp": "3ab72f49",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 800,
+      "to": 849,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_0850.pack",
+      "size": 2080294,
+      "stamp": "cc6b76fd",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 850,
+      "to": 899,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_0900.pack",
+      "size": 2308848,
+      "stamp": "7f925ea5",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 900,
+      "to": 949,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_0950.pack",
+      "size": 1953406,
+      "stamp": "be4bed7d",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 950,
+      "to": 999,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_1000.pack",
+      "size": 2468142,
+      "stamp": "a3968cb3",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 1000,
+      "to": 1049,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_1050.pack",
+      "size": 2500805,
+      "stamp": "ed543b40",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 1050,
+      "to": 1099,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_1100.pack",
+      "size": 3496292,
+      "stamp": "2228f0f1",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 1100,
+      "to": 1149,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_1150.pack",
+      "size": 3310020,
+      "stamp": "e1e4f4ea",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 1150,
+      "to": 1199,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_1200.pack",
+      "size": 3703979,
+      "stamp": "cbd79e22",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 1200,
+      "to": 1249,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_1250.pack",
+      "size": 4037913,
+      "stamp": "6d6d9123",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 1250,
+      "to": 1299,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_1300.pack",
+      "size": 2336652,
+      "stamp": "29e5d5cb",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 1300,
+      "to": 1327,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bho1_r_1341.pack",
+      "size": 11160,
+      "stamp": "aa3eda9a",
+      "prefix": "omniman/ultra/bho1_r_",
+      "from": 1341,
+      "to": 1341,
+      "digits": 4,
+      "ext": ".jpg"
+     }
+    ]
+   },
+   {
+    "name": "hd",
+    "minHeight": 0,
+    "size": 75850222,
+    "packs": [
+     {
+      "at": "packs/hd_bho1_h_0000.pack",
+      "size": 1293957,
+      "stamp": "2bf8b99a",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 0,
+      "to": 49,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_0050.pack",
+      "size": 1766961,
+      "stamp": "61996af6",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 50,
+      "to": 99,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_0100.pack",
+      "size": 3239830,
+      "stamp": "b7f87a33",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 100,
+      "to": 149,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_0150.pack",
+      "size": 5038294,
+      "stamp": "2695eb7b",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 150,
+      "to": 199,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_0200.pack",
+      "size": 5428412,
+      "stamp": "d833680a",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 200,
+      "to": 249,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_0250.pack",
+      "size": 3621858,
+      "stamp": "bdfc1dee",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 250,
+      "to": 299,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_0300.pack",
+      "size": 6278456,
+      "stamp": "882d1bee",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 300,
+      "to": 349,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_0350.pack",
+      "size": 5105344,
+      "stamp": "a5e6d346",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 350,
+      "to": 399,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_0400.pack",
+      "size": 3606741,
+      "stamp": "db711110",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 400,
+      "to": 449,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_0450.pack",
+      "size": 3479627,
+      "stamp": "acf04ab7",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 450,
+      "to": 499,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_0500.pack",
+      "size": 3443755,
+      "stamp": "28b6fdd1",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 500,
+      "to": 549,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_0550.pack",
+      "size": 1986828,
+      "stamp": "407ca1a9",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 550,
+      "to": 599,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_0600.pack",
+      "size": 2063019,
+      "stamp": "1ed1086e",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 600,
+      "to": 649,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_0650.pack",
+      "size": 1623827,
+      "stamp": "5e268b31",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 650,
+      "to": 699,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_0700.pack",
+      "size": 1864008,
+      "stamp": "f69edb62",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 700,
+      "to": 749,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_0750.pack",
+      "size": 1296607,
+      "stamp": "8756ca13",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 750,
+      "to": 799,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_0800.pack",
+      "size": 1413020,
+      "stamp": "e775509b",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 800,
+      "to": 849,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_0850.pack",
+      "size": 1561310,
+      "stamp": "a151a500",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 850,
+      "to": 899,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_0900.pack",
+      "size": 1909336,
+      "stamp": "1a123fb5",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 900,
+      "to": 949,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_0950.pack",
+      "size": 1484492,
+      "stamp": "e69bba98",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 950,
+      "to": 999,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_1000.pack",
+      "size": 2122626,
+      "stamp": "a276f897",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 1000,
+      "to": 1049,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_1050.pack",
+      "size": 2128328,
+      "stamp": "59a77c1b",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 1050,
+      "to": 1099,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_1100.pack",
+      "size": 2737274,
+      "stamp": "d5adc094",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 1100,
+      "to": 1149,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_1150.pack",
+      "size": 3006477,
+      "stamp": "4bed3890",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 1150,
+      "to": 1199,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_1200.pack",
+      "size": 3129896,
+      "stamp": "b7977e3a",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 1200,
+      "to": 1249,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_1250.pack",
+      "size": 3292531,
+      "stamp": "a29aada0",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 1250,
+      "to": 1299,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_1300.pack",
+      "size": 1917329,
+      "stamp": "47874288",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 1300,
+      "to": 1327,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bho1_h_1341.pack",
+      "size": 10079,
+      "stamp": "c0ee7219",
+      "prefix": "omniman/hd/bho1_h_",
+      "from": 1341,
+      "to": 1341,
       "digits": 4,
       "ext": ".jpg"
      }
