@@ -140,7 +140,7 @@ end
 -- they are only ever written inside the hub's two film folders.
 local function filmFolder(prefix)
   -- (one folder per film: a pack is only ever unpacked into one of them)
-  for _, folder in ipairs({ "film", "board", "reel", "remaster", "exclusive", "hellsing", "invincible2", "blackflag" }) do
+  for _, folder in ipairs({ "film", "board", "reel", "remaster", "exclusive", "hellsing", "invincible2", "blackflag", "omniman" }) do
     if string.match(prefix, "^" .. folder .. "/[%w_%-/]+$") ~= nil then return true end
   end
   return false
@@ -511,7 +511,7 @@ local function install()
     -- already downloaded: nothing to fetch, nothing to show, the hub starts
     local films = {}
     if list then
-      for _, film in ipairs({ { key = "exclusive", name = "the Exclusive intro" }, { key = "film", name = "the intro film" }, { key = "board", name = "the Home film" }, { key = "reel", name = "the Invincible intro" }, { key = "remaster", name = "the Remastered intro" }, { key = "hellsing", name = "the Hellsing intro" }, { key = "invincible2", name = "the Invincible II intro" }, { key = "blackflag", name = "the Black Flag intro" } }) do
+      for _, film in ipairs({ { key = "exclusive", name = "the Exclusive intro" }, { key = "film", name = "the intro film" }, { key = "board", name = "the Home film" }, { key = "reel", name = "the Invincible intro" }, { key = "remaster", name = "the Remastered intro" }, { key = "hellsing", name = "the Hellsing intro" }, { key = "invincible2", name = "the Invincible II intro" }, { key = "blackflag", name = "the Black Flag intro" }, { key = "omniman", name = "the Omni-Man intro" } }) do
         film.plan = filmPlan(list[film.key], record, film.name)
         if film.plan then films[#films + 1] = film end
       end
