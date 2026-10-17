@@ -1,9 +1,9 @@
 {
  "format": 1,
- "build": "20261017.0243",
- "commit": "e00704e7147de4e6efabff02508146c26503be99",
+ "build": "20261017.1018",
+ "commit": "98e51861c0d3e7516980da21e2a6d7ca4c7e3089",
  "hub": {
-  "size": 1096667
+  "size": 1101005
  },
  "files": {
   "fonts/Archivo-ExpandedBlack.ttf": {
@@ -3797,6 +3797,1286 @@
       "prefix": "exclusive/hd/bhx1_h_",
       "from": 2085,
       "to": 2085,
+      "digits": 4,
+      "ext": ".jpg"
+     }
+    ]
+   }
+  ]
+ },
+ "hellsing": {
+  "all": false,
+  "files": {
+   "hellsing/bhs1_audio.ogg": {
+    "size": 486878,
+    "stamp": "78658f34"
+   }
+  },
+  "sets": [
+   {
+    "name": "ultra",
+    "minHeight": 800,
+    "size": 53502524,
+    "packs": [
+     {
+      "at": "packs/ultra_bhs1_l_0000.pack",
+      "size": 1178403,
+      "stamp": "5c8a6996",
+      "prefix": "hellsing/ultra/bhs1_l_",
+      "from": 0,
+      "to": 49,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_l_0050.pack",
+      "size": 1384602,
+      "stamp": "be8e8d61",
+      "prefix": "hellsing/ultra/bhs1_l_",
+      "from": 50,
+      "to": 99,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_l_0100.pack",
+      "size": 1939650,
+      "stamp": "92b450a4",
+      "prefix": "hellsing/ultra/bhs1_l_",
+      "from": 100,
+      "to": 149,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_l_0150.pack",
+      "size": 1375151,
+      "stamp": "21d3783a",
+      "prefix": "hellsing/ultra/bhs1_l_",
+      "from": 150,
+      "to": 199,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_l_0200.pack",
+      "size": 3535675,
+      "stamp": "3f69d451",
+      "prefix": "hellsing/ultra/bhs1_l_",
+      "from": 200,
+      "to": 249,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_l_0250.pack",
+      "size": 1150663,
+      "stamp": "7eca652c",
+      "prefix": "hellsing/ultra/bhs1_l_",
+      "from": 250,
+      "to": 299,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_l_0300.pack",
+      "size": 2050952,
+      "stamp": "53777797",
+      "prefix": "hellsing/ultra/bhs1_l_",
+      "from": 300,
+      "to": 349,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_l_0350.pack",
+      "size": 2113463,
+      "stamp": "08144eb7",
+      "prefix": "hellsing/ultra/bhs1_l_",
+      "from": 350,
+      "to": 399,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_l_0400.pack",
+      "size": 1751421,
+      "stamp": "27691c85",
+      "prefix": "hellsing/ultra/bhs1_l_",
+      "from": 400,
+      "to": 449,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_l_0450.pack",
+      "size": 1882856,
+      "stamp": "433f71df",
+      "prefix": "hellsing/ultra/bhs1_l_",
+      "from": 450,
+      "to": 499,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_l_0500.pack",
+      "size": 1491505,
+      "stamp": "a4973598",
+      "prefix": "hellsing/ultra/bhs1_l_",
+      "from": 500,
+      "to": 549,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_l_0550.pack",
+      "size": 1178746,
+      "stamp": "9c18954b",
+      "prefix": "hellsing/ultra/bhs1_l_",
+      "from": 550,
+      "to": 599,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_l_0600.pack",
+      "size": 1200193,
+      "stamp": "444e68d4",
+      "prefix": "hellsing/ultra/bhs1_l_",
+      "from": 600,
+      "to": 649,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_l_0650.pack",
+      "size": 1141195,
+      "stamp": "c7ab18e0",
+      "prefix": "hellsing/ultra/bhs1_l_",
+      "from": 650,
+      "to": 699,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_l_0700.pack",
+      "size": 770799,
+      "stamp": "7cd4fb49",
+      "prefix": "hellsing/ultra/bhs1_l_",
+      "from": 700,
+      "to": 749,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_l_0750.pack",
+      "size": 1055314,
+      "stamp": "683492fe",
+      "prefix": "hellsing/ultra/bhs1_l_",
+      "from": 750,
+      "to": 774,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_l_0814.pack",
+      "size": 11160,
+      "stamp": "aa3eda9a",
+      "prefix": "hellsing/ultra/bhs1_l_",
+      "from": 814,
+      "to": 814,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_r_0000.pack",
+      "size": 1327792,
+      "stamp": "ab0d5f46",
+      "prefix": "hellsing/ultra/bhs1_r_",
+      "from": 0,
+      "to": 49,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_r_0050.pack",
+      "size": 1363509,
+      "stamp": "3141ffb7",
+      "prefix": "hellsing/ultra/bhs1_r_",
+      "from": 50,
+      "to": 99,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_r_0100.pack",
+      "size": 1456479,
+      "stamp": "4c4078fa",
+      "prefix": "hellsing/ultra/bhs1_r_",
+      "from": 100,
+      "to": 149,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_r_0150.pack",
+      "size": 1055814,
+      "stamp": "0881eb0a",
+      "prefix": "hellsing/ultra/bhs1_r_",
+      "from": 150,
+      "to": 199,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_r_0200.pack",
+      "size": 3807430,
+      "stamp": "77e78eae",
+      "prefix": "hellsing/ultra/bhs1_r_",
+      "from": 200,
+      "to": 249,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_r_0250.pack",
+      "size": 1656694,
+      "stamp": "b990ec88",
+      "prefix": "hellsing/ultra/bhs1_r_",
+      "from": 250,
+      "to": 299,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_r_0300.pack",
+      "size": 2440654,
+      "stamp": "3341fb53",
+      "prefix": "hellsing/ultra/bhs1_r_",
+      "from": 300,
+      "to": 349,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_r_0350.pack",
+      "size": 2422483,
+      "stamp": "5ac53d0c",
+      "prefix": "hellsing/ultra/bhs1_r_",
+      "from": 350,
+      "to": 399,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_r_0400.pack",
+      "size": 1697433,
+      "stamp": "34396eee",
+      "prefix": "hellsing/ultra/bhs1_r_",
+      "from": 400,
+      "to": 449,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_r_0450.pack",
+      "size": 2175988,
+      "stamp": "7be8c8ce",
+      "prefix": "hellsing/ultra/bhs1_r_",
+      "from": 450,
+      "to": 499,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_r_0500.pack",
+      "size": 1419032,
+      "stamp": "7de35c17",
+      "prefix": "hellsing/ultra/bhs1_r_",
+      "from": 500,
+      "to": 549,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_r_0550.pack",
+      "size": 2161837,
+      "stamp": "bc4e6990",
+      "prefix": "hellsing/ultra/bhs1_r_",
+      "from": 550,
+      "to": 599,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_r_0600.pack",
+      "size": 1391017,
+      "stamp": "30b77925",
+      "prefix": "hellsing/ultra/bhs1_r_",
+      "from": 600,
+      "to": 649,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_r_0650.pack",
+      "size": 1736824,
+      "stamp": "09d6595c",
+      "prefix": "hellsing/ultra/bhs1_r_",
+      "from": 650,
+      "to": 699,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_r_0700.pack",
+      "size": 1324689,
+      "stamp": "f5b77bb2",
+      "prefix": "hellsing/ultra/bhs1_r_",
+      "from": 700,
+      "to": 749,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_r_0750.pack",
+      "size": 841941,
+      "stamp": "99ae9eb8",
+      "prefix": "hellsing/ultra/bhs1_r_",
+      "from": 750,
+      "to": 774,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhs1_r_0814.pack",
+      "size": 11160,
+      "stamp": "aa3eda9a",
+      "prefix": "hellsing/ultra/bhs1_r_",
+      "from": 814,
+      "to": 814,
+      "digits": 4,
+      "ext": ".jpg"
+     }
+    ]
+   },
+   {
+    "name": "hd",
+    "minHeight": 0,
+    "size": 24190290,
+    "packs": [
+     {
+      "at": "packs/hd_bhs1_h_0000.pack",
+      "size": 1080440,
+      "stamp": "de574c05",
+      "prefix": "hellsing/hd/bhs1_h_",
+      "from": 0,
+      "to": 49,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhs1_h_0050.pack",
+      "size": 1205752,
+      "stamp": "ca560f27",
+      "prefix": "hellsing/hd/bhs1_h_",
+      "from": 50,
+      "to": 99,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhs1_h_0100.pack",
+      "size": 1624364,
+      "stamp": "c1b67749",
+      "prefix": "hellsing/hd/bhs1_h_",
+      "from": 100,
+      "to": 149,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhs1_h_0150.pack",
+      "size": 981934,
+      "stamp": "9161203a",
+      "prefix": "hellsing/hd/bhs1_h_",
+      "from": 150,
+      "to": 199,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhs1_h_0200.pack",
+      "size": 3442062,
+      "stamp": "367fc29f",
+      "prefix": "hellsing/hd/bhs1_h_",
+      "from": 200,
+      "to": 249,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhs1_h_0250.pack",
+      "size": 1250830,
+      "stamp": "7adecab4",
+      "prefix": "hellsing/hd/bhs1_h_",
+      "from": 250,
+      "to": 299,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhs1_h_0300.pack",
+      "size": 2088788,
+      "stamp": "39465b47",
+      "prefix": "hellsing/hd/bhs1_h_",
+      "from": 300,
+      "to": 349,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhs1_h_0350.pack",
+      "size": 2050689,
+      "stamp": "a573b4f6",
+      "prefix": "hellsing/hd/bhs1_h_",
+      "from": 350,
+      "to": 399,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhs1_h_0400.pack",
+      "size": 1570929,
+      "stamp": "872bd461",
+      "prefix": "hellsing/hd/bhs1_h_",
+      "from": 400,
+      "to": 449,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhs1_h_0450.pack",
+      "size": 1909744,
+      "stamp": "bec3019f",
+      "prefix": "hellsing/hd/bhs1_h_",
+      "from": 450,
+      "to": 499,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhs1_h_0500.pack",
+      "size": 1309877,
+      "stamp": "7a61f6ec",
+      "prefix": "hellsing/hd/bhs1_h_",
+      "from": 500,
+      "to": 549,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhs1_h_0550.pack",
+      "size": 1518483,
+      "stamp": "c835f2fa",
+      "prefix": "hellsing/hd/bhs1_h_",
+      "from": 550,
+      "to": 599,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhs1_h_0600.pack",
+      "size": 1092526,
+      "stamp": "52568b42",
+      "prefix": "hellsing/hd/bhs1_h_",
+      "from": 600,
+      "to": 649,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhs1_h_0650.pack",
+      "size": 1294947,
+      "stamp": "c16c8347",
+      "prefix": "hellsing/hd/bhs1_h_",
+      "from": 650,
+      "to": 699,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhs1_h_0700.pack",
+      "size": 873430,
+      "stamp": "37944398",
+      "prefix": "hellsing/hd/bhs1_h_",
+      "from": 700,
+      "to": 749,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhs1_h_0750.pack",
+      "size": 888369,
+      "stamp": "62ecb9a3",
+      "prefix": "hellsing/hd/bhs1_h_",
+      "from": 750,
+      "to": 774,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhs1_h_0814.pack",
+      "size": 7126,
+      "stamp": "781a9ee5",
+      "prefix": "hellsing/hd/bhs1_h_",
+      "from": 814,
+      "to": 814,
+      "digits": 4,
+      "ext": ".jpg"
+     }
+    ]
+   }
+  ]
+ },
+ "invincible2": {
+  "all": false,
+  "files": {
+   "invincible2/bhv2_audio.ogg": {
+    "size": 796068,
+    "stamp": "612f5787"
+   }
+  },
+  "sets": [
+   {
+    "name": "ultra",
+    "minHeight": 800,
+    "size": 125705798,
+    "packs": [
+     {
+      "at": "packs/ultra_bhv2_l_0000.pack",
+      "size": 4804438,
+      "stamp": "9c315ef0",
+      "prefix": "invincible2/ultra/bhv2_l_",
+      "from": 0,
+      "to": 49,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_l_0050.pack",
+      "size": 5331738,
+      "stamp": "e31fe0bc",
+      "prefix": "invincible2/ultra/bhv2_l_",
+      "from": 50,
+      "to": 99,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_l_0100.pack",
+      "size": 5614905,
+      "stamp": "088dcd8c",
+      "prefix": "invincible2/ultra/bhv2_l_",
+      "from": 100,
+      "to": 149,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_l_0150.pack",
+      "size": 2453850,
+      "stamp": "9ab35350",
+      "prefix": "invincible2/ultra/bhv2_l_",
+      "from": 150,
+      "to": 199,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_l_0200.pack",
+      "size": 2247251,
+      "stamp": "59ed4ab3",
+      "prefix": "invincible2/ultra/bhv2_l_",
+      "from": 200,
+      "to": 249,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_l_0250.pack",
+      "size": 2205152,
+      "stamp": "e6ecff45",
+      "prefix": "invincible2/ultra/bhv2_l_",
+      "from": 250,
+      "to": 299,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_l_0300.pack",
+      "size": 2291144,
+      "stamp": "9e35de6b",
+      "prefix": "invincible2/ultra/bhv2_l_",
+      "from": 300,
+      "to": 349,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_l_0350.pack",
+      "size": 2027487,
+      "stamp": "eb65fa44",
+      "prefix": "invincible2/ultra/bhv2_l_",
+      "from": 350,
+      "to": 399,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_l_0400.pack",
+      "size": 3795282,
+      "stamp": "3c6362d0",
+      "prefix": "invincible2/ultra/bhv2_l_",
+      "from": 400,
+      "to": 449,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_l_0450.pack",
+      "size": 1861682,
+      "stamp": "bd96cd4c",
+      "prefix": "invincible2/ultra/bhv2_l_",
+      "from": 450,
+      "to": 499,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_l_0500.pack",
+      "size": 2366995,
+      "stamp": "d7b8e1e4",
+      "prefix": "invincible2/ultra/bhv2_l_",
+      "from": 500,
+      "to": 549,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_l_0550.pack",
+      "size": 2471793,
+      "stamp": "5c1d057e",
+      "prefix": "invincible2/ultra/bhv2_l_",
+      "from": 550,
+      "to": 599,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_l_0600.pack",
+      "size": 2121423,
+      "stamp": "adf5bc43",
+      "prefix": "invincible2/ultra/bhv2_l_",
+      "from": 600,
+      "to": 649,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_l_0650.pack",
+      "size": 2310599,
+      "stamp": "d3930e46",
+      "prefix": "invincible2/ultra/bhv2_l_",
+      "from": 650,
+      "to": 699,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_l_0700.pack",
+      "size": 1697503,
+      "stamp": "9f88c76c",
+      "prefix": "invincible2/ultra/bhv2_l_",
+      "from": 700,
+      "to": 749,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_l_0750.pack",
+      "size": 3063973,
+      "stamp": "f6fe25ae",
+      "prefix": "invincible2/ultra/bhv2_l_",
+      "from": 750,
+      "to": 799,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_l_0800.pack",
+      "size": 2870631,
+      "stamp": "3fbb8f37",
+      "prefix": "invincible2/ultra/bhv2_l_",
+      "from": 800,
+      "to": 849,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_l_0850.pack",
+      "size": 2652619,
+      "stamp": "5ca8b1a2",
+      "prefix": "invincible2/ultra/bhv2_l_",
+      "from": 850,
+      "to": 899,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_l_0900.pack",
+      "size": 3364870,
+      "stamp": "9a7bcc95",
+      "prefix": "invincible2/ultra/bhv2_l_",
+      "from": 900,
+      "to": 949,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_l_0950.pack",
+      "size": 3143866,
+      "stamp": "66394853",
+      "prefix": "invincible2/ultra/bhv2_l_",
+      "from": 950,
+      "to": 999,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_l_1000.pack",
+      "size": 2733946,
+      "stamp": "8dbb7374",
+      "prefix": "invincible2/ultra/bhv2_l_",
+      "from": 1000,
+      "to": 1049,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_l_1050.pack",
+      "size": 2383278,
+      "stamp": "fb17c83a",
+      "prefix": "invincible2/ultra/bhv2_l_",
+      "from": 1050,
+      "to": 1099,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_l_1100.pack",
+      "size": 1545899,
+      "stamp": "e6fccd4c",
+      "prefix": "invincible2/ultra/bhv2_l_",
+      "from": 1100,
+      "to": 1137,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_l_1205.pack",
+      "size": 11160,
+      "stamp": "aa3eda9a",
+      "prefix": "invincible2/ultra/bhv2_l_",
+      "from": 1205,
+      "to": 1205,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_r_0000.pack",
+      "size": 5143213,
+      "stamp": "f9277e9e",
+      "prefix": "invincible2/ultra/bhv2_r_",
+      "from": 0,
+      "to": 49,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_r_0050.pack",
+      "size": 5544366,
+      "stamp": "35c78053",
+      "prefix": "invincible2/ultra/bhv2_r_",
+      "from": 50,
+      "to": 99,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_r_0100.pack",
+      "size": 5593936,
+      "stamp": "7c15bae3",
+      "prefix": "invincible2/ultra/bhv2_r_",
+      "from": 100,
+      "to": 149,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_r_0150.pack",
+      "size": 2764016,
+      "stamp": "69c547e8",
+      "prefix": "invincible2/ultra/bhv2_r_",
+      "from": 150,
+      "to": 199,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_r_0200.pack",
+      "size": 1876569,
+      "stamp": "337d57ff",
+      "prefix": "invincible2/ultra/bhv2_r_",
+      "from": 200,
+      "to": 249,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_r_0250.pack",
+      "size": 2028403,
+      "stamp": "eb10938e",
+      "prefix": "invincible2/ultra/bhv2_r_",
+      "from": 250,
+      "to": 299,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_r_0300.pack",
+      "size": 2102859,
+      "stamp": "5bdac06f",
+      "prefix": "invincible2/ultra/bhv2_r_",
+      "from": 300,
+      "to": 349,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_r_0350.pack",
+      "size": 2252407,
+      "stamp": "ec8b3f0f",
+      "prefix": "invincible2/ultra/bhv2_r_",
+      "from": 350,
+      "to": 399,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_r_0400.pack",
+      "size": 3025282,
+      "stamp": "4ab45ea4",
+      "prefix": "invincible2/ultra/bhv2_r_",
+      "from": 400,
+      "to": 449,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_r_0450.pack",
+      "size": 1612307,
+      "stamp": "826a81f4",
+      "prefix": "invincible2/ultra/bhv2_r_",
+      "from": 450,
+      "to": 499,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_r_0500.pack",
+      "size": 1584181,
+      "stamp": "7972ae77",
+      "prefix": "invincible2/ultra/bhv2_r_",
+      "from": 500,
+      "to": 549,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_r_0550.pack",
+      "size": 2151066,
+      "stamp": "549f8d80",
+      "prefix": "invincible2/ultra/bhv2_r_",
+      "from": 550,
+      "to": 599,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_r_0600.pack",
+      "size": 1781270,
+      "stamp": "71f8178b",
+      "prefix": "invincible2/ultra/bhv2_r_",
+      "from": 600,
+      "to": 649,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_r_0650.pack",
+      "size": 2282496,
+      "stamp": "eb38027a",
+      "prefix": "invincible2/ultra/bhv2_r_",
+      "from": 650,
+      "to": 699,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_r_0700.pack",
+      "size": 1496656,
+      "stamp": "def41999",
+      "prefix": "invincible2/ultra/bhv2_r_",
+      "from": 700,
+      "to": 749,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_r_0750.pack",
+      "size": 2313711,
+      "stamp": "0180c974",
+      "prefix": "invincible2/ultra/bhv2_r_",
+      "from": 750,
+      "to": 799,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_r_0800.pack",
+      "size": 2378609,
+      "stamp": "c57462d5",
+      "prefix": "invincible2/ultra/bhv2_r_",
+      "from": 800,
+      "to": 849,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_r_0850.pack",
+      "size": 2605565,
+      "stamp": "af5abc01",
+      "prefix": "invincible2/ultra/bhv2_r_",
+      "from": 850,
+      "to": 899,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_r_0900.pack",
+      "size": 3304441,
+      "stamp": "4a01c602",
+      "prefix": "invincible2/ultra/bhv2_r_",
+      "from": 900,
+      "to": 949,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_r_0950.pack",
+      "size": 2800433,
+      "stamp": "17cccd85",
+      "prefix": "invincible2/ultra/bhv2_r_",
+      "from": 950,
+      "to": 999,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_r_1000.pack",
+      "size": 2419162,
+      "stamp": "fd317ec7",
+      "prefix": "invincible2/ultra/bhv2_r_",
+      "from": 1000,
+      "to": 1049,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_r_1050.pack",
+      "size": 2082558,
+      "stamp": "7a38d061",
+      "prefix": "invincible2/ultra/bhv2_r_",
+      "from": 1050,
+      "to": 1099,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_r_1100.pack",
+      "size": 1179648,
+      "stamp": "6cfa64f5",
+      "prefix": "invincible2/ultra/bhv2_r_",
+      "from": 1100,
+      "to": 1137,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/ultra_bhv2_r_1205.pack",
+      "size": 11160,
+      "stamp": "aa3eda9a",
+      "prefix": "invincible2/ultra/bhv2_r_",
+      "from": 1205,
+      "to": 1205,
+      "digits": 4,
+      "ext": ".jpg"
+     }
+    ]
+   },
+   {
+    "name": "hd",
+    "minHeight": 0,
+    "size": 59696305,
+    "packs": [
+     {
+      "at": "packs/hd_bhv2_h_0000.pack",
+      "size": 4849708,
+      "stamp": "f6d87667",
+      "prefix": "invincible2/hd/bhv2_h_",
+      "from": 0,
+      "to": 49,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhv2_h_0050.pack",
+      "size": 5244689,
+      "stamp": "cb1b3aaf",
+      "prefix": "invincible2/hd/bhv2_h_",
+      "from": 50,
+      "to": 99,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhv2_h_0100.pack",
+      "size": 5477833,
+      "stamp": "3e224627",
+      "prefix": "invincible2/hd/bhv2_h_",
+      "from": 100,
+      "to": 149,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhv2_h_0150.pack",
+      "size": 2433466,
+      "stamp": "4e9651a7",
+      "prefix": "invincible2/hd/bhv2_h_",
+      "from": 150,
+      "to": 199,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhv2_h_0200.pack",
+      "size": 1981293,
+      "stamp": "88a38438",
+      "prefix": "invincible2/hd/bhv2_h_",
+      "from": 200,
+      "to": 249,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhv2_h_0250.pack",
+      "size": 1954345,
+      "stamp": "c05a4500",
+      "prefix": "invincible2/hd/bhv2_h_",
+      "from": 250,
+      "to": 299,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhv2_h_0300.pack",
+      "size": 2047907,
+      "stamp": "df66344c",
+      "prefix": "invincible2/hd/bhv2_h_",
+      "from": 300,
+      "to": 349,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhv2_h_0350.pack",
+      "size": 2003142,
+      "stamp": "06c56bc2",
+      "prefix": "invincible2/hd/bhv2_h_",
+      "from": 350,
+      "to": 399,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhv2_h_0400.pack",
+      "size": 3310996,
+      "stamp": "64dc14ab",
+      "prefix": "invincible2/hd/bhv2_h_",
+      "from": 400,
+      "to": 449,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhv2_h_0450.pack",
+      "size": 1617278,
+      "stamp": "0c75ae0e",
+      "prefix": "invincible2/hd/bhv2_h_",
+      "from": 450,
+      "to": 499,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhv2_h_0500.pack",
+      "size": 1805035,
+      "stamp": "76f2eaa2",
+      "prefix": "invincible2/hd/bhv2_h_",
+      "from": 500,
+      "to": 549,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhv2_h_0550.pack",
+      "size": 2141915,
+      "stamp": "41bcfda0",
+      "prefix": "invincible2/hd/bhv2_h_",
+      "from": 550,
+      "to": 599,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhv2_h_0600.pack",
+      "size": 1785972,
+      "stamp": "87103e3d",
+      "prefix": "invincible2/hd/bhv2_h_",
+      "from": 600,
+      "to": 649,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhv2_h_0650.pack",
+      "size": 2103611,
+      "stamp": "8150a975",
+      "prefix": "invincible2/hd/bhv2_h_",
+      "from": 650,
+      "to": 699,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhv2_h_0700.pack",
+      "size": 1456794,
+      "stamp": "c17ca895",
+      "prefix": "invincible2/hd/bhv2_h_",
+      "from": 700,
+      "to": 749,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhv2_h_0750.pack",
+      "size": 2576551,
+      "stamp": "c39e4418",
+      "prefix": "invincible2/hd/bhv2_h_",
+      "from": 750,
+      "to": 799,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhv2_h_0800.pack",
+      "size": 2455104,
+      "stamp": "20430881",
+      "prefix": "invincible2/hd/bhv2_h_",
+      "from": 800,
+      "to": 849,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhv2_h_0850.pack",
+      "size": 2389120,
+      "stamp": "51e9f5f6",
+      "prefix": "invincible2/hd/bhv2_h_",
+      "from": 850,
+      "to": 899,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhv2_h_0900.pack",
+      "size": 3180422,
+      "stamp": "4aaef3e1",
+      "prefix": "invincible2/hd/bhv2_h_",
+      "from": 900,
+      "to": 949,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhv2_h_0950.pack",
+      "size": 2793713,
+      "stamp": "32cc599c",
+      "prefix": "invincible2/hd/bhv2_h_",
+      "from": 950,
+      "to": 999,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhv2_h_1000.pack",
+      "size": 2544063,
+      "stamp": "3a9fc5e7",
+      "prefix": "invincible2/hd/bhv2_h_",
+      "from": 1000,
+      "to": 1049,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhv2_h_1050.pack",
+      "size": 2192671,
+      "stamp": "b0466463",
+      "prefix": "invincible2/hd/bhv2_h_",
+      "from": 1050,
+      "to": 1099,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhv2_h_1100.pack",
+      "size": 1340598,
+      "stamp": "05f3eed5",
+      "prefix": "invincible2/hd/bhv2_h_",
+      "from": 1100,
+      "to": 1137,
+      "digits": 4,
+      "ext": ".jpg"
+     },
+     {
+      "at": "packs/hd_bhv2_h_1205.pack",
+      "size": 10079,
+      "stamp": "c0ee7219",
+      "prefix": "invincible2/hd/bhv2_h_",
+      "from": 1205,
+      "to": 1205,
       "digits": 4,
       "ext": ".jpg"
      }
